@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"interactiveWindow.executeWithShiftEnter": true,
+		"interactiveWindow.promptToSaveOnClose": true,
+		"jupyter.interactiveWindow.textEditor.executeSelection": true
+	}
+}
